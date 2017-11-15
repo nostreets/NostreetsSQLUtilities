@@ -1,2 +1,3 @@
 # NostreetsSQLUtilities
-Helpful SQL Procudures and Functions
+
+A Set of Helpful SQL Procudures and Functions
